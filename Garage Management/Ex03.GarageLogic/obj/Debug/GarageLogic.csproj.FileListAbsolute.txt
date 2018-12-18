@@ -1,0 +1,5 @@
+C:\Users\Itai\Desktop\Garage Management\Ex03.GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Itai\Desktop\Garage Management\Ex03.GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\Itai\Desktop\Garage Management\Ex03.GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\Itai\Desktop\Garage Management\Ex03.GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\Itai\Desktop\Garage Management\Ex03.GarageLogic\obj\Debug\GarageLogic.pdb

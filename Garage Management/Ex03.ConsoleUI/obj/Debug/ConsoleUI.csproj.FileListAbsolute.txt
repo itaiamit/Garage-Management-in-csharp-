@@ -1,0 +1,10 @@
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Itai\Desktop\Garage Management\Ex03.ConsoleUI\obj\Debug\ConsoleUI.pdb
